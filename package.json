@@ -1,7 +1,7 @@
 {
   "name": "ts-storybook-design-tut",
-  "tut":"https://youtu.be/7Gbk4h2AYVE",
-  "git": "",
+  "tut": "https://youtu.be/7Gbk4h2AYVE",
+  "git": "https://github.com/prabhat-cn/typescript-storybook-design-tut.git",
   "version": "1.11.0",
   "private": false,
   "license": "MIT",
